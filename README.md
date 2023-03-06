@@ -1,0 +1,1 @@
+House of Art is a web application which provides a online platforn for the artists and art lovers.This application provides a platform where artists can sell their paintings and customers can buy them.
